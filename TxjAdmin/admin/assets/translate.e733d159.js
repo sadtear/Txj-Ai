@@ -1,0 +1,1 @@
+import{r as e}from"./index.93d1c242.js";function n(t){return e.post({url:"/setting/translate/query",params:t})}function s(t){return e.post({url:"/setting/translate/save",params:t})}function a(t){return e.post({url:"/setting/review/save",params:t})}function u(t){return e.post({url:"/setting/review/query",params:t})}export{u as a,n as g,s as t,a as w};

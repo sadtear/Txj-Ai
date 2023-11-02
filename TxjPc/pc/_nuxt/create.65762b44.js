@@ -1,0 +1,1 @@
+function e(t){return $request.get({url:"/ai/creation",params:t})}function r(t){return $request.get({url:"/ai/creation/detail",params:t})}function i(t){return $request.get({url:"/draw/style/list",params:t})}export{r as a,i as b,e as g};

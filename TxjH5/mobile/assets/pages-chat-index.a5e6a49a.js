@@ -1,0 +1,1 @@
+import{d as s,o as a,e as t,f as e,g as o,k as m}from"./index-7044850c.js";import{C as r}from"./chat-model-view.9f6c296d.js";import"./page-meta.66d6713f.js";import"./u-icon.593ee39b.js";import"./chat.e60728da.js";const i=s({__name:"index",setup:s=>(s,i)=>{const n=m;return a(),t(n,null,{default:e((()=>[o(r)])),_:1})}});export{i as default};

@@ -1,0 +1,1 @@
+function e(t){return $request.post({url:"/feedback/add",params:t})}function c(t){return $request.get({url:"/chats/listCollect",params:t})}function l(t){return $request.post({url:"/chats/cancelCollect",params:t})}export{e as a,l as c,c as g};

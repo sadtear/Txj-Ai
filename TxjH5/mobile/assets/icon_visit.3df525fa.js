@@ -1,0 +1,1 @@
+import{bh as t}from"./index-7044850c.js";function a(){return t.get({url:"/article/category"})}function i(a){return t.get({url:"/article/list",data:a})}function r(a){return t.get({url:"/article/detail",data:a})}const e="/mobile/static/images/icon/icon_visit.png";export{e as _,a,r as b,i as g};

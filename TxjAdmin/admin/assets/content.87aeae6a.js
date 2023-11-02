@@ -1,0 +1,1 @@
+import{_ as s}from"./vue-drag-resize.44c30f3e.js";import{o as t,c as e,a as c}from"./@vue.cb90fff3.js";const o="/assets/index-input.7276bc64.png",n={},a={class:"container"},r=c("img",{src:o,alt:"",class:"img"},null,-1),_=[r];function i(d,l){return t(),e("div",a,_)}const f=s(n,[["render",i]]);export{f as default};

@@ -1,0 +1,1 @@
+import{P as r}from"./empty_news.49a3869c.js";import{E as o}from"./index.f1996257.js";import{v as t,o as a,c as m,b as n,h as e}from"./entry.35d4c246.js";const f=t({__name:"index",setup(s){return(p,i)=>(a(),m("div",null,[n(e(o),{image:e(r),description:"暂无数据","image-size":250},null,8,["image"])]))}}),u=""+new URL("error.44a7bc18.png",import.meta.url).href;export{f as _,u as e};
