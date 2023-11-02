@@ -4,7 +4,7 @@
 
 免费部署你的私人 ChatGPT+Midjourney+SD 网页应用。
 
-![主界面](./docs/images/cover.png)
+![主界面](./docs/images/PC/首页.png)
 
 </div>
 
@@ -33,3 +33,14 @@ Redis 7.0.11
 Java tomcat7
 # 部署教程
 ~待补充
+# 用户界面预览
+![SD](./docs/images/PC/SD.png)
+![AI角色](./docs/images/PC/AI角色.png)
+![画廊](./docs/images/PC/画廊.png)
+![画夹](./docs/images/PC/画夹.png)
+
+# 后台界面预览
+![首页](./docs/images/admin/首页.png)
+![系统环境](./docs/images/admin/系统环境.png)
+![装修](./docs/images/admin/装修.png)
+![AI绘画](./docs/images/admin/AI绘画配置.png)
